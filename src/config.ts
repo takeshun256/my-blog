@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: true,
-    src: '/assets/images/takeshun256-banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: '/assets/images/takeshun256-banner2.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   },
   favicon: [
     {
